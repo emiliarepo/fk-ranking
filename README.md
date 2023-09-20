@@ -6,10 +6,10 @@ Setup:
 - Make a Discord bot
 - Add a Discord webhook to the channel you want to have logs in 
 - Rename .env.example to .env and fill out the details:
- - Roblox token: log into Roblox from an incognito tab, copy token, close that tab 
- - Group ID: ID of the group you want to change ranks in 
- - Password: password submitted with every request - helps prevent abuse as you only know the password 
- - Discord token: used to log in to discord
+  - Roblox token: log into Roblox from an incognito tab, copy token, close that tab 
+  - Group ID: ID of the group you want to change ranks in 
+  - Password: password submitted with every request - helps prevent abuse as you only know the password 
+  - Discord token: used to log in to discord
 - Install all required Node modules (npm install)
 - Run the bot 
 
