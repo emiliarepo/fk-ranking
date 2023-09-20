@@ -9,7 +9,7 @@ Setup:
   - Roblox token: log into Roblox from an incognito tab, copy token, close that tab 
   - Group ID: ID of the group you want to change ranks in 
   - Password: password submitted with every request - helps prevent abuse as you only know the password 
-  - Discord token: used to log in to discord
+  - Discord webhook url: make the webhook in a channel of your choice, ranking logs will be sent there 
 - Install all required Node modules (npm install)
 - Run the bot 
 
