@@ -3,16 +3,15 @@
 This is a bot that can be used to rank up people in a Roblox group.
 
 Setup: 
-Make a Discord bot 
-Add a Discord webhook to the channel you want to have logs in 
-Rename .env.example to .env and fill out the details:
-- Roblox token: log into Roblox from an incognito tab, copy token, close that tab 
-- Group ID: ID of the group you want to change ranks in 
-- Password: password submitted with every request - helps prevent abuse as you only know the password 
-- Discord token: used to log in to discord
-
-Install all required Node modules (npm install)
-Run the bot 
+- Make a Discord bot
+- Add a Discord webhook to the channel you want to have logs in 
+- Rename .env.example to .env and fill out the details:
+ - Roblox token: log into Roblox from an incognito tab, copy token, close that tab 
+ - Group ID: ID of the group you want to change ranks in 
+ - Password: password submitted with every request - helps prevent abuse as you only know the password 
+ - Discord token: used to log in to discord
+- Install all required Node modules (npm install)
+- Run the bot 
 
 To send requests to the bot in Roblox, you could do something like this: 
 
