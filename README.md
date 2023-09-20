@@ -10,6 +10,7 @@ Rename .env.example to .env and fill out the details:
 - Group ID: ID of the group you want to change ranks in 
 - Password: password submitted with every request - helps prevent abuse as you only know the password 
 - Discord token: used to log in to discord
+
 Install all required Node modules (npm install)
 Run the bot 
 
